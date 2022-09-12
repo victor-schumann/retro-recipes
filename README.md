@@ -1,4 +1,4 @@
-# retro-recipes
+# Retro Recipes Project
 Here I plan & organize files related to the first project of the "Odin Project".
 
 <p align="center"> 
