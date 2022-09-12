@@ -1,5 +1,5 @@
 # retro-recipes
-Here I plan &amp; organize files related to the first project of the "Odin Project" course.
+Here I plan & organize files related to the first project of the "Odin Project".
 
 <p align="center"> 
 <a href="https://victor-schumann.github.io/retro-recipes" target="blank"><img align="center" src="https://img.shields.io/badge/-live_preview-808080?style=for-the-badge&logo=&logoColor=white" alt="Git project link" height="30" width="auto"/></a>
