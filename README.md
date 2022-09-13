@@ -1,4 +1,4 @@
-# Retro Recipes Project
+# Retro Recipes Project (April 2022)
 Here I plan & organize files related to the first project of the "Odin Project".
 
 <p align="center"> 
